@@ -34,7 +34,7 @@ public Plugin myinfo = {
 	author = "Bati", 
 	description = "ResetScore - Bati", 
 	version = "1.0", 
-	url = "https://batism.pl/"
+	url = " "
 };
 
 
