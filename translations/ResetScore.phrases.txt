@@ -1,0 +1,18 @@
+"Phrases"
+{
+    "Success Reset"
+    {
+        "en" "Successfull reset your stats"
+        "pl" "Udało ci się zresetować statystyki"
+    }
+    "Danger Reset"
+    {
+        "en" "You don't have kills, assists, deaths"
+        "pl" "Nie posiadasz zabojstw, asyst, smierci"
+    }
+    "Vip Permission"
+    {
+        "en" "This is only available to Vip"
+        "pl" "Ten przywilej jest dostepny tylko dla Vipa"
+    }
+}
