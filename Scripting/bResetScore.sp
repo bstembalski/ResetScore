@@ -24,7 +24,7 @@
 
 /*  [ VARIABLES ]  */
 g_PlayerCmdCoolDown[MAXPLAYERS];
-PlayerCmdCoolDownReal = 20;
+PlayerCmdCoolDownReal = 15;
 
 /*   [  I N C  ]   */
 #include <multicolors>
